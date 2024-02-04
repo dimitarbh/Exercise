@@ -17,7 +17,7 @@
 
 ### Exercise
 
-Create a "Local Community Event Hub" website that showcases community events, workshops, and local news. The site will serve as a hub for residents and visitors to find interesting activities, learn about local businesses, and participate in community discussions.
+Create a "Local Community Event Hub" website that showcases community events, workshops, and local news in a new github repository named acordingly. The site will serve as a hub for residents and visitors to find interesting activities, learn about local businesses, and participate in community discussions.
 
 ### Task
 
