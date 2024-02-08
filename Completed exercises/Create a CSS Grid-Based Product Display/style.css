@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.product-grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    padding: 20px;
+}
+
+.product{
+    text-align: center;
+    background-color: #3498db;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 9px 9px rgba(0, 0, 0, 0.2);
+}
+
+
+

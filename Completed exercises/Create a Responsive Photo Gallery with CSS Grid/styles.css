@@ -1,0 +1,22 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.photo-gallery{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 30px;
+    padding: 20px;
+}
+
+.photo{
+    text-align: center;
+    background-color: aquamarine;
+    padding: 20px;
+    border: 3px solid rgb(132, 247, 173);
+    color: #402c2c;
+    border-radius: 5px;
+    box-shadow: 0px 0px 9px rgb(61, 61, 61);
+}

@@ -1,0 +1,23 @@
+:root {
+    background-color: rgb(23, 195, 183);
+}
+
+
+.image-gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    padding: 20px;
+}
+
+.gallery-item {
+    text-align: center;
+}
+
+.gallery-item img {
+    max-width: 100%;
+    height: auto;
+    border: 5px solid #eee;
+    border-radius: 5px;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
