@@ -1,0 +1,30 @@
+body {
+    background-color: azure;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: bisque;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.nav-menu {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(86, 75, 71);
+    padding: 10px 0;
+}
+
+.nav-menu a{
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 5px;
+    transition: 0.5s ease;
+}
+
+.nav-menu a:hover{
+    background-color: #555;
+}
