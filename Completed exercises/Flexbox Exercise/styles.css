@@ -1,0 +1,29 @@
+body {
+    background-color: lightgray;
+}
+
+header, footer {
+    background-color: lightblue;
+    text-align: center;
+    padding: 25px;
+    font-weight: bold;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: DodgerBlue;
+}
+
+.box {
+    background-color: lightcyan;
+    margin: 20px;
+    padding: 50px;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
